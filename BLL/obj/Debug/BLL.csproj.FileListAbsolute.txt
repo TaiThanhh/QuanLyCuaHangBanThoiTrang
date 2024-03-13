@@ -1,0 +1,26 @@
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\bin\Debug\BLL.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\bin\Debug\BLL.pdb
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\bin\Debug\ADO.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\bin\Debug\MySql.Data.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\bin\Debug\ADO.pdb
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\bin\Debug\MySql.Data.xml
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.pdb
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\bin\Debug\DTO.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\BLL\bin\Debug\DTO.pdb
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\bin\Debug\BLL.dll
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\bin\Debug\BLL.pdb
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\bin\Debug\ADO.dll
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\bin\Debug\DTO.dll
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\bin\Debug\MySql.Data.dll
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\bin\Debug\ADO.pdb
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\bin\Debug\DTO.pdb
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.dll
+C:\Ampps\www\PTPM\Shop_QuanAo\BLL\obj\Debug\BLL.pdb
