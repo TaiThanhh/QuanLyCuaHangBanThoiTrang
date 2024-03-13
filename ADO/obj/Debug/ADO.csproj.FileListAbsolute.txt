@@ -1,9 +1,0 @@
-C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\ADO\bin\Debug\ADO.dll
-C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\ADO\bin\Debug\ADO.pdb
-C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\ADO\obj\Debug\ADO.dll
-C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\ADO\obj\Debug\ADO.pdb
-C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\ADO\bin\Debug\Google.Protobuf.dll
-C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\ADO\bin\Debug\MySql.Data.xml
-C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
-C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
-C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\ADO\obj\Debug\ADO.csproj.CopyComplete
