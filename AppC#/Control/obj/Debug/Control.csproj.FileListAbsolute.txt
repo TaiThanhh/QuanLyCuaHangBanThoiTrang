@@ -1,0 +1,15 @@
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\bin\Debug\Control.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\bin\Debug\Control.pdb
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\bin\Debug\ADO.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\bin\Debug\ADO.pdb
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\obj\Debug\Control.Ctrl_DangNhap.resources
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\obj\Debug\Control.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\obj\Debug\Control.csproj.GenerateResource.cache
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\obj\Debug\Control.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\obj\Debug\Control.pdb
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\bin\Debug\MySql.Data.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\bin\Debug\Google.Protobuf.dll
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\bin\Debug\MySql.Data.xml
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\obj\Debug\Control.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Máy tính\PTPM\Shop_QuanAo\Control\obj\Debug\Control.csproj.CopyComplete
